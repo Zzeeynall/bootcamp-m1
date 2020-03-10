@@ -203,6 +203,7 @@ td {
 
 .reverse {
   display: none;
+  position: absolute;
 }
 
 .averse:hover + .reverse {
