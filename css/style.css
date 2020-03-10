@@ -206,6 +206,6 @@ td {
   position: absolute; 
 }
 
-.coin-more-img:hover .reverse {
+.coin-more-img .averse:hover + .reverse {
   display: block;
 }
