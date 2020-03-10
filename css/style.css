@@ -203,9 +203,9 @@ td {
 
 .reverse {
   display: none;
-  position: absolute;
+  position: absolute; 
 }
 
-.averse:hover + .reverse {
+.coin-more-img:hover .reverse {
   display: block;
 }
